@@ -39,6 +39,7 @@ The IMDb movies database provides comprehensive information on movies, including
 
 1. ![Box Office Performance by Genre](insert_link): This chart illustrates the box office performance of different movie genres, highlighting the top-performing genres.
    - Insight: [Insert insight]
+   ![alt text](image.png)
 
 2. ![Budget vs. Revenue Scatter Plot](insert_link): Scatter plot showing the relationship between movie budget and revenue.
    - Insight: [Insert insight]
