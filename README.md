@@ -37,15 +37,17 @@ The IMDb movies database provides comprehensive information on movies, including
 
 ### Visualize the Data
 
-1. ![Box Office Performance by Genre](insert_link): This chart illustrates the box office performance of different movie genres, highlighting the top-performing genres.
+1. : This chart illustrates the box office performance of different movie genres, highlighting the top-performing genres.
    - Insight: [Insert insight]
    ![alt text](image.png)
 
 2. ![Budget vs. Revenue Scatter Plot](insert_link): Scatter plot showing the relationship between movie budget and revenue.
    - Insight: [Insert insight]
+   
 
-3. ![Rating Distribution](insert_link): Histogram depicting the distribution of audience ratings for movies.
+3. : Histogram depicting the distribution of audience ratings for movies.
    - Insight: [Insert insight]
+   ![alt text](image-1.png)
 
 ## Analysis and Insights
 
