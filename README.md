@@ -1,5 +1,7 @@
 # ✨ Analysis of IMDb Movies Database ✨
 
+![alt text](image-3.png)
+
 ## Project Overview
 For this project, we will conduct an exploratory data analysis of the IMDb movies database to generate insights for a business stakeholder.
 
@@ -30,13 +32,13 @@ The IMDb movies database provides comprehensive information on movies, including
 - Quality: Preliminary assessment indicates clean data with no significant issues.
 
 ### Visualize the Data
-1. ![Box Office Performance by Genre](insert_image_link): This chart illustrates the box office performance of different movie genres, highlighting the top-performing genres.
+1. ![Box Office Performance by Genre](![alt text](image-2.png)): This chart illustrates the box office performance of different movie genres, highlighting the top-performing genres.
    - Insight: [Insert insight]
 
-2. ![Budget vs. Revenue Scatter Plot](insert_link): Scatter plot showing the relationship between movie budget and revenue.
+2. ![Budget vs. Revenue Scatter Plot](![alt text](image-4.png)): Scatter plot showing the relationship between movie budget and revenue.
    - Insight: [Insert insight]
 
-3. ![Distribution of Audience Ratings](insert_image_link): Histogram depicting the distribution of audience ratings for movies.
+3. ![Distribution of Audience Ratings](![alt text](image-5.png)): Histogram depicting the distribution of audience ratings for movies.
    - Insight: [Insert insight]
 
 ## Analysis and Insights
