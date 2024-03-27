@@ -1,6 +1,7 @@
 # ✨ Analysis of IMDb Movies Database ✨
 
-![alt text](image-3.png)
+![image](https://github.com/Allan-Kipkemei/DSC-PHASE-01/assets/73424910/d0a1ce17-b975-427e-9476-176b59f5fac5)
+
 
 ## Project Overview
 For this project, we will conduct an exploratory data analysis of the IMDb movies database to generate insights for a business stakeholder.
